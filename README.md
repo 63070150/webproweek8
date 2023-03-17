@@ -1,2 +1,2 @@
 # webproweek8
-node module ตัอง download ลงมาเอง
+npm init ก่อนแล้วค่อยเอาไฟล์ไปยัด
